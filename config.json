@@ -5,6 +5,7 @@
         "windows": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.2/MonkeyLaunch-Windows.zip",
         "linux": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.2/MonkeyLaunch-Linux.zip",
         "mac": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.2/MonkeyLaunch-macOS.zip",
+        "windowsSha256": "63b8dd553a84f6a59b1663755e5053a2e277bbe98f0c1692fc2cc5b7dd87ef58",
         "mandatory": false
     },
     "minVersion": "",
