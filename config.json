@@ -1,0 +1,30 @@
+{
+    "latest": {
+        "version": "1.6.1",
+        "notes": "",
+        "windows": "",
+        "linux": "",
+        "mac": "",
+        "mandatory": false
+    },
+    "minVersion": "",
+    "storeAndroid": "",
+    "storeIOS": "",
+    "storeQuest": "",
+    "motd": {
+        "id": "",
+        "title": "",
+        "text": ""
+    },
+    "maintenance": false,
+    "maintenanceText": "",
+    "xpBoost": 1.0,
+    "xpBoostUntil": "",
+    "featuredMode": -1,
+    "gift": {
+        "id": "",
+        "text": "",
+        "xp": 0
+    },
+    "bans": []
+}
