@@ -1,16 +1,17 @@
 {
     "latest": {
-        "version": "1.6.1",
-        "notes": "",
-        "windows": "",
-        "linux": "",
-        "mac": "",
+        "version": "1.6.2",
+        "notes": "Bug fixes and polish. Ground Pound and wind zones now work properly online, and team tags are now clan tags. Get Monkey Launch at monkeylaunch.app.",
+        "windows": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.2/MonkeyLaunch-Windows.zip",
+        "linux": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.2/MonkeyLaunch-Linux.zip",
+        "mac": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.2/MonkeyLaunch-macOS.zip",
         "mandatory": false
     },
     "minVersion": "",
     "storeAndroid": "",
     "storeIOS": "",
     "storeQuest": "",
+    "forceStrict": false,
     "motd": {
         "id": "",
         "title": "",
