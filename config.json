@@ -1,11 +1,11 @@
 {
     "latest": {
-        "version": "1.6.4",
-        "notes": "Security update: stronger anti-cheat, and gifts from the developer are now verified. This update is required to play online.",
-        "windows": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.4/MonkeyLaunch-Windows.zip",
-        "linux": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.4/MonkeyLaunch-Linux.zip",
-        "mac": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.4/MonkeyLaunch-macOS.zip",
-        "windowsSha256": "8d3ae9523390f955057102d9c6c632a37a19aeb17a461ca934d2a06045e04ef2",
+        "version": "1.6.5",
+        "notes": "Fixes a false \"Leaderboards paused\" warning some players saw after updating.",
+        "windows": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.5/MonkeyLaunch-Windows.zip",
+        "linux": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.5/MonkeyLaunch-Linux.zip",
+        "mac": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.5/MonkeyLaunch-macOS.zip",
+        "windowsSha256": "5c75b081921b625543a1d0c0bf9eb33ba989338ca281c9eefcfa0725914002f4",
         "mandatory": true
     },
     "minVersion": "",
