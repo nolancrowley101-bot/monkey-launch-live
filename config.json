@@ -1,11 +1,11 @@
 {
     "latest": {
-        "version": "1.6.2",
-        "notes": "Bug fixes and polish. Ground Pound and wind zones now work properly online, and team tags are now clan tags. Get Monkey Launch at monkeylaunch.app.",
-        "windows": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.2/MonkeyLaunch-Windows.zip",
-        "linux": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.2/MonkeyLaunch-Linux.zip",
-        "mac": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.2/MonkeyLaunch-macOS.zip",
-        "windowsSha256": "63b8dd553a84f6a59b1663755e5053a2e277bbe98f0c1692fc2cc5b7dd87ef58",
+        "version": "1.6.3",
+        "notes": "Gifts! The developer can now send you XP, cosmetics and island decor. Plus bug fixes.",
+        "windows": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.3/MonkeyLaunch-Windows.zip",
+        "linux": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.3/MonkeyLaunch-Linux.zip",
+        "mac": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.3/MonkeyLaunch-macOS.zip",
+        "windowsSha256": "4f8bb82ceeb942a22c89950451be9d79c4196bbd564007d420bca168eec20998",
         "mandatory": false
     },
     "minVersion": "",
@@ -26,7 +26,11 @@
     "gift": {
         "id": "",
         "text": "",
+        "cosmetics": "",
+        "decor": "",
+        "players": "",
         "xp": 0
     },
+    "gifts": [],
     "bans": []
 }
