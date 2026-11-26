@@ -1,11 +1,11 @@
 {
     "latest": {
-        "version": "1.6.5",
-        "notes": "Fixes a false \"Leaderboards paused\" warning some players saw after updating.",
-        "windows": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.5/MonkeyLaunch-Windows.zip",
-        "linux": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.5/MonkeyLaunch-Linux.zip",
-        "mac": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.5/MonkeyLaunch-macOS.zip",
-        "windowsSha256": "5c75b081921b625543a1d0c0bf9eb33ba989338ca281c9eefcfa0725914002f4",
+        "version": "1.6.6",
+        "notes": "Secret admin items: rare cosmetics and island decor that can only be gifted by the admin.",
+        "windows": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.6/MonkeyLaunch-Windows.zip",
+        "linux": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.6/MonkeyLaunch-Linux.zip",
+        "mac": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.6/MonkeyLaunch-macOS.zip",
+        "windowsSha256": "da2d69cc55076f364e6073dae3f430bcbe66a5a18a72cba9bccda818ec78a98e",
         "mandatory": true
     },
     "minVersion": "",
