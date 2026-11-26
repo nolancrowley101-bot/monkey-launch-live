@@ -1,14 +1,14 @@
 {
     "latest": {
-        "version": "1.6.6",
-        "notes": "Secret admin items: rare cosmetics and island decor that can only be gifted by the admin.",
-        "windows": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.6/MonkeyLaunch-Windows.zip",
-        "linux": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.6/MonkeyLaunch-Linux.zip",
-        "mac": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.6.6/MonkeyLaunch-macOS.zip",
-        "windowsSha256": "da2d69cc55076f364e6073dae3f430bcbe66a5a18a72cba9bccda818ec78a98e",
-        "mandatory": true
+        "version": "1.7.0",
+        "notes": "Fall off the map and the game will let you know about it. Good luck.",
+        "windows": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.7.0/MonkeyLaunch-Windows.zip",
+        "linux": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.7.0/MonkeyLaunch-Linux.zip",
+        "mac": "https://github.com/nolancrowley101-bot/monkey-launch-live/releases/download/v1.7.0/MonkeyLaunch-macOS.zip",
+        "windowsSha256": "bac49bd8cb1c386ba3f7b830ef95aee2747307d38ab6c9803d0945ae58bb99c9",
+        "mandatory": false
     },
-    "minVersion": "",
+    "minVersion": "1.6.6",
     "storeAndroid": "",
     "storeIOS": "",
     "storeQuest": "",
