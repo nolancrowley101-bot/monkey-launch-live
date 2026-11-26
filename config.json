@@ -24,24 +24,14 @@
     "xpBoostUntil": "",
     "featuredMode": -1,
     "gift": {
-        "id": "20261126172241",
+        "id": "",
         "text": "",
         "cosmetics": "",
         "decor": "",
         "players": "",
         "sig": "",
-        "xp": 1526
+        "xp": 0
     },
-    "gifts": [
-        {
-            "id": "20261126172241",
-            "text": "",
-            "cosmetics": "",
-            "decor": "",
-            "players": "",
-            "sig": "FMQttjyr3hJt/XCt5S1zruHnbtvYIgR458VHKsuAQO5sC2GOjQ7WmvY5sjAkLbtAVaX7P60WKpwzQqqcVbTZKnrC9t0jiAzGz82j6F7Ij1jc82bHHQhhxDAwLRBvjo5m+GxsNjiYPOVkEkGDhrQYj8NKpQ+ftNBV9Zc74PTGXQb/6HqTyax0JdUV4X1QY8jp5T1GGIwJWdiMonnOfIY814bAujR59Jnf6Q7Fe7laIwThq1+UVSB4euY8JEC6mHpnFFafFda+J//GnoSeMIjOSljXNsHjYcEJ4QG+47OyHecbFm21WXjIkuyCWwp2oHWJX1ThrzFT6BHU4mUufFygFg==",
-            "xp": 1526
-        }
-    ],
+    "gifts": [],
     "bans": []
 }
